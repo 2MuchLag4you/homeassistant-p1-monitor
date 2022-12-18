@@ -6,7 +6,7 @@ The [letscontrolit](https://www.letscontrolit.com/) platform offers an telnet ou
 
 # Personal setup
 
-D1 Mini connected to the p1 meter, with the firmware build `20111 - Mega`
+D1 Mini connected to the p1 meter, with the firmware build `20111 - Mega` of ESP easy
 
 # Configuration
 
