@@ -1,0 +1,1 @@
+from custom_components.p1mon.entity.sensorentity import P1MonSensorEntity

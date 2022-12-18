@@ -1,0 +1,13 @@
+{
+    "domain": "p1mon",
+    "name": "P1 Monitor - custom",
+    "version": 1,
+    "config_flow": true,
+    "documentation": "",
+    "requirements": [],
+    "codeowners": [
+        "@2MuchLag4You"
+    ],
+    "quality_scale": "platinum",
+    "iot_class": "local_polling"
+}
